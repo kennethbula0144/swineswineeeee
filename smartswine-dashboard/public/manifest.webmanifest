@@ -1,0 +1,18 @@
+{
+  "name": "Smart Swine Farm Dashboard",
+  "short_name": "Smart Swine",
+  "description": "Offline-capable pig farm monitoring and record keeping",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "/smart-swine-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

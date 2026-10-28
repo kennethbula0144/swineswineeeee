@@ -1,0 +1,16 @@
+**/node_modules/
+**/dist/
+.env
+__pycache__/
+*.py[cod]
+backend/models/*.pt
+backend/models/.*.tmp.pt
+backend/models/.posture-coco-data-*/
+backend/models/*-training-*/
+backend/yolo11n-cls.pt
+backend/training-runs/
+*.cache
+aitrain/datasets/*
+!aitrain/datasets/.gitkeep
+aitrain/posture-review-crops.labels.csv
+smartswine-dashboard/.tsupgrader/
